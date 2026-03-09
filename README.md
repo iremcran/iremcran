@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Irem 👋
 
-<!--
-**iremcran/iremcran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Engineering Student  
+💻 Backend Developer in progress  
+☁️ Learning Cloud Technologies (AWS)
 
-Here are some ideas to get you started:
+## Skills I'm Learning
+- Java
+- Spring Boot
+- Git & GitHub
+- Backend Development
+- Cloud (AWS)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Goals
+Become a Backend & Cloud Engineer
