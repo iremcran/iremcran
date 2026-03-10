@@ -14,6 +14,6 @@
 ## Goals
 Become a Backend & Cloud Engineer
 ## GitHub Stats
-![Irem's GitHub stats](https://github-readme-stats.vercel.app/api?username=iremcran&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=iremcran&show_icons=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iremcran&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iremcran&layout=compact)
